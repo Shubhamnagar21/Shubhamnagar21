@@ -19,5 +19,5 @@
 
 <center><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamnagar21&show_icons=true&locale=en&layout=compact" alt="shubhamnagar21" /></p><center/>
 <br/>
-<center><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamnagar21&show_icons=true&locale=en" alt="shubhamnagar21" /></p><center/>
+
 
